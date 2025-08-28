@@ -7,6 +7,7 @@
 
 ## Roadmap
 Day 1 - Setup repo + folders
+Day2 - Loaded the dataset and display first rows
 and so on 
 
 ## Structure
