@@ -6,7 +6,8 @@
 ## Buils step by step over 30 days with daily commits.
 
 ## Roadmap
-Day 1 - Setup repo + folders
+Day 1 - Setup repo + folders 
+
 Day2 - Loaded the dataset and display first rows
 and so on 
 
