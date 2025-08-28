@@ -1,6 +1,4 @@
-def main():
-    print("Welcome to Smart Data Analyzer!")
-    print("More features is coming soon!")
+import pandas as pd
 
-if __name__ == "__main__":
-    main()
+data = pd.read_csv("data/sample.csv")
+print(data.head())
